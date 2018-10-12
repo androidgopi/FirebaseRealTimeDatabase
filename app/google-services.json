@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "576362918472",
+    "firebase_url": "https://fir-realtimedatabase-89427.firebaseio.com",
+    "project_id": "fir-realtimedatabase-89427",
+    "storage_bucket": "fir-realtimedatabase-89427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576362918472:android:a04a9969777e2ded",
+        "android_client_info": {
+          "package_name": "com.firebase.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576362918472-8ib8u4gq9ss5ogoef65tim3pohd0vna4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKrZbw9ETbvMLwEh-RcA2Js82yv3UakWM"
+        },
+        {
+          "current_key": "AIzaSyDKrZbw9ETbvMLwEh-RcA2Js82yv3UakWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
